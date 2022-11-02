@@ -1,4 +1,5 @@
 /* Instellingen om fouten te helpen vinden, uncomment om aan te zetten */
+,
 
 * {                                          /* geldt voor alles */
     /* border: 1px dotted black;         */  /* zorg dat elke box een gestippelde rand krijgt, zodat je de afmeting goed kunt zien, letop dat dit de layout soms kan wijzigen */
@@ -8,9 +9,9 @@
 /* Basisinstellingen voor alle pagina's, alleen aanpassen als je pro wilt worden */
 
 html, body {                      /* geldt voor html en body */
-  margin: 0px;                    /* standaard marge 0 */
-  background-color: #EEEEEE;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  margin: 0%;                    /* standaard marge 0 */
+  background-color: #ffffff;    /* achtergrondkleur lichtgrijs */
+  color: #000000;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -61,7 +62,7 @@ p {
 /* Opmaak voor alle pagina's */
 
 h1, h2, h3 {
-      color: skyblue;
+      color: #006cd1;
 }
 
 .smalltext {
@@ -70,7 +71,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: skyblue;
+    color: #006cd1
     text-decoration: none;
 }
 
@@ -84,7 +85,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #6b6b6b;
     overflow: hidden;
 }
 
@@ -94,16 +95,16 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: #ffffff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #6b6b6b;
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: #006cd1;
 }
