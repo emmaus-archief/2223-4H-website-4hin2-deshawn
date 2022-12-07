@@ -108,3 +108,13 @@ nav li a:hover {
 nav li a.active {
     background-color: #006cd1;
 }
+#bordering{
+  border:10px solid transparent;
+  padding: 15px;
+  border-image: url (**) 30 round;
+}
+
+body {
+  background-image:
+    url("")
+}                                          
