@@ -11,7 +11,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0%;                    /* standaard marge 0 */
   background-color: #ffffff;    /* achtergrondkleur lichtgrijs */
-  color: #000000;               /* tekstkleur donkergrijs */
+  color: #ffffff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -116,5 +116,10 @@ nav li a.active {
 
 body {
   background-image:
-    url("")
+    url("https://wallpaperaccess.com/full/5053782.jpg");
+  backround-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    
+  
 }                                          
