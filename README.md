@@ -52,14 +52,14 @@ Aan het einde van stap 4 heb je een hoofdpagina met teksten en plaatjes.
 Aan het einde van stap 5 heb je minimaal vier subpagina's met een goede indeling en opmaak. De plaatjes en tekst op de
 
 ### Stap 6: Plaatjes en tekst subpagina's
-- [ ] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
+- [x] Je hebt de tekst en plaatjes voor al je subpagina's gemaakt.
 
 Aan het einde van stap 6 heb je minimaal vier subpagina's met teksten en plaatjes.
 
 ### Stap 7: Perfectioneren 
-- [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
-- [ ] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
-- [ ] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
+- [x] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
+- [x] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
+- [x] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
 Aan het einde van stap 7 zijn alle kleine foutjes uit je website verdwenen.
 
